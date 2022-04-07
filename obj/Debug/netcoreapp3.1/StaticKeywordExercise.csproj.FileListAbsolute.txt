@@ -1,0 +1,13 @@
+F:\repos\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\netcoreapp3.1\StaticKeywordExercise.exe
+F:\repos\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\netcoreapp3.1\StaticKeywordExercise.deps.json
+F:\repos\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\netcoreapp3.1\StaticKeywordExercise.runtimeconfig.json
+F:\repos\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\netcoreapp3.1\StaticKeywordExercise.runtimeconfig.dev.json
+F:\repos\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\netcoreapp3.1\StaticKeywordExercise.dll
+F:\repos\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\netcoreapp3.1\StaticKeywordExercise.pdb
+F:\repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\netcoreapp3.1\StaticKeywordExercise.csproj.AssemblyReference.cache
+F:\repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\netcoreapp3.1\StaticKeywordExercise.AssemblyInfoInputs.cache
+F:\repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\netcoreapp3.1\StaticKeywordExercise.AssemblyInfo.cs
+F:\repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\netcoreapp3.1\StaticKeywordExercise.csproj.CoreCompileInputs.cache
+F:\repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\netcoreapp3.1\StaticKeywordExercise.dll
+F:\repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\netcoreapp3.1\StaticKeywordExercise.pdb
+F:\repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\netcoreapp3.1\StaticKeywordExercise.genruntimeconfig.cache
